@@ -1,0 +1,10 @@
+{
+  "expected_version": 1,
+  "confirmations": [
+    {
+      "segment": 0,
+      "key": "B",
+      "pressed": false
+    }
+  ]
+}

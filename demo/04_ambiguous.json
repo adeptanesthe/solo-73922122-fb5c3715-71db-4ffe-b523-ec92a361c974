@@ -1,0 +1,38 @@
+{
+  "key_names": [
+    "A",
+    "B"
+  ],
+  "band_names": [
+    "f_A_B"
+  ],
+  "templates": [
+    [
+      1.0
+    ],
+    [
+      1.0
+    ]
+  ],
+  "band_energy_1": [
+    1.0
+  ],
+  "band_error_1": [
+    0.0
+  ],
+  "band_energy_2": [
+    1.0
+  ],
+  "band_error_2": [
+    0.0
+  ],
+  "gain_lower": [
+    0.5,
+    0.5
+  ],
+  "gain_upper": [
+    1.0,
+    1.0
+  ],
+  "time_limit": 10.0
+}
